@@ -24,9 +24,9 @@
 ---
 
 ### 📫 Connect with Me
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/sharanpreet](#)  
-- **GitHub:** [github.com/sharanpreetkaur](#)
+- **Email:** sharanpreetkaurngl@gmail.com 
+- **LinkedIn:** [https://www.linkedin.com/in/sharanpreet-kaur03](#)  
+- **GitHub:** [https://github.com/Sharanpreet-kaur](#)
 
 
 
